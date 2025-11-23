@@ -1,0 +1,9 @@
+{
+	"name": "dhraneshfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d629d6b8-8fe9-42f7-8703-a07f117142d2",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
